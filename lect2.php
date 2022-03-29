@@ -6,3 +6,4 @@
     echo gettype($y);
      var_dump($name);
     //print_r($GLOBALS);
+echo "Hello, im line want to be added to my brothers in github, please prog ahmed add me  ;(";
